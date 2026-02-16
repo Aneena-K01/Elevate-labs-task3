@@ -1,0 +1,1 @@
+In this project I used SQL for Data Analysis.The objective was to use SQL to extract, manipulate, and analyze structured data from a database using MySQL.The Superstore dataset was used to perform various SQL operations including filtering, aggregation, subqueries, joins, views, and indexing.
